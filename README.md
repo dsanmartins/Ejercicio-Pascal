@@ -29,7 +29,7 @@
 |-------------------|------|------|------|-------|
 | A                 | 1    | Acer | 20   | V     |
 | B                 | 2    | Samsung | 10   | D     |
-| C                 | 3    | HP   | Disponible|       |
+| C                 | 3    | HP   | 30| D|       
 | A                 | 4    | Lenovo | 30   | D     |
 | B                 | 5    | Apple | 30   | D     |
 | C                 | 6    | Brother | 10   | V     |
